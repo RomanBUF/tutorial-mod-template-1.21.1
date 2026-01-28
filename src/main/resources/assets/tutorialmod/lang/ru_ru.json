@@ -1,0 +1,12 @@
+{
+  "item.tutorialmod.bullets": "Патроны",
+  "item.tutorialmod.keycard_lvl_1": "Карта Доступа 1 Уровня",
+  "item.tutorialmod.keycard_lvl_2": "Карта Доступа 2 Уровня",
+
+  "block.tutorialmod.land_mine_block": "Мина",
+  "block.tutorialmod.keycard_reader_block_lvl_1": "Терминал Карты Доступа 1 уровня",
+  "block.tutorialmod.keycard_reader_block_lvl_2": "Терминал Карты Доступа 2 уровня",
+
+  "itemgroup.tutorialmod.shooting_items": "Предметы для Режима",
+  "itemgroup.tutorialmod.shooting_blocks": "Блоки для Режима"
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north,powered=false": {
+      "model": "tutorialmod:block/keycard_reader_block_lvl_2_closed"
+    },
+    "facing=north,powered=true": {
+      "model": "tutorialmod:block/keycard_reader_block_lvl_2_opened"
+    },
+
+    "facing=east,powered=false":  { "model": "tutorialmod:block/keycard_reader_block_lvl_2_closed", "y": 90 },
+    "facing=east,powered=true":   { "model": "tutorialmod:block/keycard_reader_block_lvl_2_opened", "y": 90 },
+
+    "facing=south,powered=false": { "model": "tutorialmod:block/keycard_reader_block_lvl_2_closed", "y": 180 },
+    "facing=south,powered=true":  { "model": "tutorialmod:block/keycard_reader_block_lvl_2_opened", "y": 180 },
+
+    "facing=west,powered=false":  { "model": "tutorialmod:block/keycard_reader_block_lvl_2_closed", "y": 270 },
+    "facing=west,powered=true":   { "model": "tutorialmod:block/keycard_reader_block_lvl_2_opened", "y": 270 }
+  }
+}
